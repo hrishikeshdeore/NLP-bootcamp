@@ -1,5 +1,6 @@
 contains all the assignments for nlp bootcamp
-# For the final assignment, use the folllowing link to see the demo
+# For the final assignment, use the following link to see the demo
+the page may take some time to load, so plase wait till it loads.........
 https://cd2f59d42d38f7be09.gradio.live
 
 the final ui looks like below
